@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[SD Beach Concierge]]></title>
         <description><![CDATA[SD Beach Concierge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sd-beach-concierge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 23:01:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 23:01:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sd-beach-concierge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]]]></title>
+            <description><![CDATA[<article><h1>The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]</h1><p>Design is a plan for arranging elements in such a way as to accomplish a particular purpose. - Charles Eames In order to arrange your design, you need a place to start. Backgrounds are the foundation of your graphics - it helps pave the path to forming a successful composition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/877d79945943ec595c9e850987ca4480cd3a921f.jpg"></article>]]></description>
+            <link>https://designschool.canva.com/blog/background-design/</link>
+            <guid isPermaLink="false">4efcfca7-c3f1-408d-a43f-1f4c855f2235</guid>
+            <pubDate>Thu, 19 May 2016 23:01:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Precious cargo: the Container Artist Residency program sets sail.]]></title>
             <description><![CDATA[<article><h1>Precious cargo: the Container Artist Residency program sets sail.</h1><p>Aboard commercial cargo ships is where the Container Artist Residency 01 program is finding its abode. Completely isolated from the rest of the world, the Residency allows its artists to work in a remote space with no tangible lines of communication to the outside world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d759350ce98ca3bc139cec56370ae7702fae3f5.jpg"></article>]]></description>
